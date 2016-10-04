@@ -14,3 +14,7 @@
 Route::get('/', function () {
     return view('support.home');
 });
+
+Route::get('/lobby', function () {
+    return view('support.lobby');
+});

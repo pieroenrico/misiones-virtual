@@ -8,4 +8,11 @@
         });
     })
 
+    $(document).on('click', 'a.opener', function(e){
+        e.preventDefault();
+        $('.animable').each(function(){
+            $(this).removeClass('no-display').addClass($(this).attr('id'))
+        })
+    })
+
 })(jQuery);
