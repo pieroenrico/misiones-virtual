@@ -14,5 +14,9 @@
             $(this).removeClass('no-display').addClass($(this).attr('id'))
         })
     })
+    $(document).on('click', '#slide', function(e){
+        e.preventDefault();
+        window.location = '/lobby'
+    })
 
 })(jQuery);

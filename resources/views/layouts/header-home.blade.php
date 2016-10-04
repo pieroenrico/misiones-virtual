@@ -1,7 +1,7 @@
 <header class="animable no-display" id="slide">
     <div class="row">
         <div class="col-md-3 logo">
-            <img src="/images/logo.png" alt="">
+            <a href="/"><img src="/images/logo.png" alt=""></a>
         </div>
         <div class="col-md-2 social">
             <ul>
@@ -15,3 +15,5 @@
         </div>
     </div>
 </header>
+
+@include('layouts.header-mobile')

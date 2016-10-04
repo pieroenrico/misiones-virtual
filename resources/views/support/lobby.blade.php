@@ -10,7 +10,7 @@
 
     <div class="main-lobby">
 
-        <div class="login"><a href="">Iniciar Sesión</a></div>
+        <div class="login"><a href="">Iniciar<br>Sesión</a></div>
         <div class="chat"></div>
 
         <div class="lobby-menu">
