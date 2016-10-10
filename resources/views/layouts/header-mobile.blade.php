@@ -11,9 +11,9 @@
 
 <div class="menu-mobile">
     <ul class="menu">
-        <li class="active"><a href="">Lobby</a></li>
-        <li><a href="">Recinto</a></li>
-        <li><a href="">Digesto Jurídico</a></li>
+        <li class="active"><a href="/lobby">Lobby</a></li>
+        <li><a href="/recinto">Recinto</a></li>
+        <li><a href="/digesto">Digesto Jurídico</a></li>
         <li><a href="">Sala de Chat</a></li>
         <li class="novedades"><a href="">Novedades</a></li>
     </ul>

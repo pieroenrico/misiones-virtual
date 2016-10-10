@@ -12,9 +12,9 @@
         </div>
         <div class="col-md-7 title">
             <ul class="menu">
-                <li class="active"><a href="">Lobby</a></li>
-                <li><a href="">Recinto</a></li>
-                <li><a href="">Digesto Jurídico</a></li>
+                <li class="item-menu-lobby"><a href="/lobby">Lobby</a></li>
+                <li class="item-menu-recinto"><a href="/recinto">Recinto</a></li>
+                <li class="item-menu-digesto"><a href="/digesto1">Digesto Jurídico</a></li>
                 <li><a href="">Sala de Chat</a></li>
                 <li class="novedades"><a href="">Novedades</a></li>
             </ul>

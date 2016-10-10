@@ -15,8 +15,12 @@
         })
     })
     $(document).on('click', '#slide', function(e){
-        e.preventDefault();
-        window.location = '/lobby'
+
+        if($('body').hasClass('home')) {
+            e.preventDefault();
+            window.location = '/lobby'
+
+        }
     })
 
 })(jQuery);

@@ -16,13 +16,13 @@
         <div class="lobby-menu">
 
             <div class="lobby-menu-item dir-left">
-                <a href="">Recinto Diputados</a>
+                <a href="/recinto">Recinto Diputados</a>
                 <div class="arrow"><i class="fa fa-arrow-right"></i></div>
             </div>
 
             <div class="lobby-menu-item dir-right">
                 <div class="arrow"><i class="fa fa-arrow-left"></i></div>
-                <a href="">Digesto Jurídico</a>
+                <a href="/digesto1">Digesto Jurídico</a>
             </div>
 
             <div class="lobby-menu-item dir-left">
